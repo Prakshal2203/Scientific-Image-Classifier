@@ -1,2 +1,2 @@
 # Scientific-Image-Classifier
-Mined_24_hackthano
+Mined_24_hackathon
